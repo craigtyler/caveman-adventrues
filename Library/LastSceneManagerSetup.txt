@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/_Scene/HubScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/_Scene/Test level.unity
+  isLoaded: 0
+  isActive: 0
